@@ -16,7 +16,7 @@ Skills: C / Java /  Django / SQL / BootStrap / DataStructure
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ANTHATIKARTHIK)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ANTHATIKARTHIK&show_icons=true)  
+![GitHub stats] <p align = "center"> <img src="https://github-readme-stats.vercel.app/api?username=ANTHATIKARTHIK&show_icons=true&theme=vision-friendly-dark" alt = ANTHATIKARTHIK" /> </p> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ANTHATIKARTHIK)  
 
