@@ -12,16 +12,4 @@ Skills: C / Java /  Django / SQL / BootStrap / DataStructure
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ANTHATIKARTHIK)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ANTHATIKARTHIK)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats] > <img src="https://github-readme-stats.vercel.app/api?username=ANTHATIKARTHIK&show_icons=true&theme=vision-friendly-dark" alt = "ANTHATIKARTHIK" /> 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ANTHATIKARTHIK)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ANTHATIKARTHIK)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ANTHATIKARTHIK)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/ANTHATIKARTHIK)  
