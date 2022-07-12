@@ -1,4 +1,4 @@
-### Hi there 👋, Hey ,I'm Karthik
+### Hi there 👋,I'm Karthik
 #### Software Engineer
 
 Skills: C / Java /  Django / SQL / BootStrap / DataStructure
